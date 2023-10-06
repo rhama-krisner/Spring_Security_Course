@@ -15,5 +15,4 @@ ___
 
 👉 [GitHub Course Repository](https://github.com/eazybytes/springsecurity6)
 
-# Spring_Security_Course
 
